@@ -1,0 +1,17 @@
+button {
+    background-color: ghostwhite;
+    color: pink;
+    border-radius: 60px;
+    border: none;
+    width: 5rem;
+    padding: 2%;
+    font-family: "Century Gothic";
+
+}
+
+.timer {
+    font-family: "Century Gothic";
+    color: white;
+    margin-top: 15%;
+
+}
